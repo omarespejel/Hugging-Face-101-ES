@@ -1,6 +1,14 @@
 # Hugging-Face-101-ES
 Comienza en procesamiento del lenguaje natural usando [Hugging Face](https://huggingface.co/)!
 
+Aquí los temas hasta hoy.
+
+|   | Tema                                                  | Link a tutorial |
+|---|-------------------------------------------------------|-----------------|
+| 0 | Introducción a los Transformers                       |                 |
+| 1 | NLP en español: Importando un modelo y tokenizando    |                 |
+| 2 | NLP en español: Fine-tuning para clasificar un tweets |                 |
+
 ### Contribuye
 Una vez que haya terminado de trabajar algún tutorial, ¡tus comentarios serán muy apreciados!
 
