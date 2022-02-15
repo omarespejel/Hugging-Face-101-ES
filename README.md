@@ -3,11 +3,11 @@ Comienza en procesamiento del lenguaje natural usando [Hugging Face](https://hug
 
 Aquí los temas hasta hoy.
 
-|   | Tema                                                  | Link a tutorial |
-|---|-------------------------------------------------------|-----------------|
-| 0 | Introducción a los Transformers                       |                 |
-| 1 | NLP en español: Importando un modelo y tokenizando    |                 |
-| 2 | NLP en español: Fine-tuning para clasificar un tweets |                 |
+|   | Tema                                                  | Dónde?                                                                                                                |
+|---|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 0 | Introducción a los Transformers                       | [link](https://github.com/omarespejel/Hugging-Face-101-ES/blob/main/ELIA_Transformers_1.ipynb)                        |
+| 1 | NLP en español: Importando un modelo y tokenizando    | [link](https://github.com/omarespejel/Hugging-Face-101-ES/blob/main/BETO_01_Importaci%C3%B3n_y_tokenizing.ipynb)      |
+| 2 | NLP en español: Fine-tuning para clasificar un tweets | [link](https://github.com/omarespejel/Hugging-Face-101-ES/blob/main/BETO_02_Fine_tuning_para_clasificar_tweets.ipynb) |
 
 ### Contribuye
 Una vez que haya terminado de trabajar algún tutorial, ¡tus comentarios serán muy apreciados!
