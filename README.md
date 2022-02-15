@@ -7,7 +7,7 @@ Aquí los temas hasta hoy.
 |---|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | 0 | Introducción a los Transformers                       | [link](https://github.com/omarespejel/Hugging-Face-101-ES/blob/main/0_Introducci%C3%B3n_a_los_Transformers.ipynb)                        |
 | 1 | NLP en español: Importando un modelo y tokenizando    | [link](https://github.com/omarespejel/Hugging-Face-101-ES/blob/main/1_NLP_en_espa%C3%B1ol:_Importando_un_modelo_y_tokenizando.ipynb)      |
-| 2 | NLP en español: Fine-tuning para clasificar un tweets | [link](https://github.com/omarespejel/Hugging-Face-101-ES/blob/main/2_NLP_en_espa%C3%B1ol:_Fine-tuning_para_clasificar_tweets.ipynb) |
+| 2 | NLP en español: Fine-tuning para clasificar tweets | [link](https://github.com/omarespejel/Hugging-Face-101-ES/blob/main/2_NLP_en_espa%C3%B1ol:_Fine-tuning_para_clasificar_tweets.ipynb) |
 
 ### Contribuye
 Una vez que haya terminado de trabajar algún tutorial, ¡tus comentarios serán muy apreciados!
